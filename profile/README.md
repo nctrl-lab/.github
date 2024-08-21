@@ -2,7 +2,7 @@
 ![MouseWiggleGIF](https://github.com/user-attachments/assets/0b510898-181a-4fb3-a63a-d04e5dea5cf7)
 
 🧙 We have ⭐<b>genius</b>⭐ professor Dohoung Kim! <br>
-🐤 ...and four cute student <br>
+🐤 ...and four cute students <br>
 
 <!--
 
