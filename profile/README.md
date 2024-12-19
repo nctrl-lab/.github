@@ -1,13 +1,7 @@
-# Neural Control Laboratory 🐭
+# Laboratory of Neural Control 🐭
 ![MouseWiggleGIF](https://github.com/user-attachments/assets/0b510898-181a-4fb3-a63a-d04e5dea5cf7)
 
-🧙 We have ⭐<b>genius</b>⭐ professor Dohoung Kim! <br>
-🐤 ...and four cute students <br>
-🐶 LOVE SOMI <br>
-
-<img
-src="https://github.com/user-attachments/assets/a4fc4557-817c-4bfe-8ff1-4bcec421f7f8" width="30%" height="30%" />
-
+- We specialize in systems neuroscience, in vivo electrophysiology, and brain-machine interfaces (BMIs). Our research focuses on understanding how the brain generates flexible behavior. Additionally, we develop efficient information communication algorithms using neural interfaces, with the goal of controlling neural circuits and behavior.
 
 <!--
 
